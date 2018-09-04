@@ -1468,7 +1468,8 @@
             },
             "textures": "{\"Picture\":\"atp:/textures/controls/ControlsPlaces-Desktop.PNG\"}",
             "type": "Model",
-            "userData": "{\"grabbableKey\":{\"grabbable\":false}}"
+            "userData": "{\"grabbableKey\":{\"grabbable\":false}}",
+			"visible" : false
         },
         {
             "clientOnly": false,
@@ -5457,7 +5458,8 @@
             },
             "textures": "{\"Picture\":\"atp:/textures/text/Station_Text_Places-Desktop.png\"}",
             "type": "Model",
-            "userData": "{\"grabbableKey\":{\"grabbable\":false}}"
+            "userData": "{\"grabbableKey\":{\"grabbable\":false}}",
+			"visible" : false
         },
         {
             "animation": {
